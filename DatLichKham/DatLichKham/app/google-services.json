@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "694255706358",
+    "firebase_url": "https://my-project-1595753131328-default-rtdb.firebaseio.com",
+    "project_id": "my-project-1595753131328",
+    "storage_bucket": "my-project-1595753131328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694255706358:android:504a4690a9315e47250cd7",
+        "android_client_info": {
+          "package_name": "com.example.datlichkham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694255706358-re9h16vva7q7oesa66n6e41eo4siasom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl5IYT0cmmpkCUaSJCp31CxCFIgupNpBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694255706358-re9h16vva7q7oesa66n6e41eo4siasom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
